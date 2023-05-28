@@ -154,7 +154,17 @@ static int minimax(char board[][],
         return best;
     }
 }
-  
+    
+public static boolean canBlock(char board[][]) 
+{
+	return(false);
+}
+
+public static boolean canWin(char board[][])
+{
+	return(false);
+}
+    
 // This will return the best possible
 // move for the player
 static Move findBestMove(char board[][])
