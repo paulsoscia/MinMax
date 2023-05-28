@@ -1,6 +1,6 @@
 // Java program to find the 
 // next optimal move for a player
-class GFG
+class MinMax
 {
 static class Move
 {
